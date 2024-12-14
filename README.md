@@ -1,1 +1,1 @@
-check 👉 counselingpredictor.vercel.app
+check 👉 https://counselingpredictor.vercel.app/
