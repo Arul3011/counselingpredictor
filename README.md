@@ -1,0 +1,1 @@
+check 👉 counselingpredictor.vercel.app
